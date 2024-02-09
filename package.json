@@ -1,0 +1,11 @@
+{
+  "name": "99-project-stretcher-senier",
+  "version": "1.0.0",
+  "description": "explain your project here ## Members list out your member ID and name.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
