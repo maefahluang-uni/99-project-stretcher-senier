@@ -8,7 +8,7 @@
 
 
 ## Feature
--Login(Pongpan) To confirm your identity To access the dashboard and employee work information.
--HomePage(Utumporn) It shows a daily summary of the dashboard. Will be able to see work totals for working time. Each person's work of each day here.
--Report(Piyawat) It creates a report of hospital work time and can view the work history of the stretcher pusher.
--Api(Harit) Used to receive and sent data for storage and forwarding for display in various work pages.
+- Login(Pongpan) To confirm your identity To access the dashboard and employee work information.
+- HomePage(Utumporn) It shows a daily summary of the dashboard. Will be able to see work totals for working time. Each person's work of each day here.
+- Report(Piyawat) It creates a report of hospital work time and can view the work history of the stretcher pusher.
+- Api(Harit) Used to receive and sent data for storage and forwarding for display in various work pages.
