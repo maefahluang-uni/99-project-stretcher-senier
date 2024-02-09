@@ -8,5 +8,4 @@
 
 
 ## Home page(Utumporn 6431503073)
-- Home page(Utumporn)
-It shows a daily summary of the dashboard. Will be able to see work totals for working time. Each person's work of each day here
+- It shows a daily summary of the dashboard. Will be able to see work totals for working time. Each person's work of each day here
