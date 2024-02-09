@@ -15,5 +15,5 @@ You need to create skeleton of your project's development. It does not necessary
 - Create Docker file for your deployment of your application 
 
 ## Feature
-- Home page
-It shows a daily summary of the dashboard. Daily work totals can be viewed here.
+- Home page(Utumporn)
+It shows a daily summary of the dashboard. Will be able to see work totals for working time. Each person's work of each day here
